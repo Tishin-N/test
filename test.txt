@@ -1,1 +1,6 @@
 update test
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root        1213  0.0  0.2   5048  4152 tty1     Ss   00:31   0:00 -bash
+root        3833  0.0  0.2   5048  4216 pts/0    Ss+  08:19   0:00 -bash
+root        4344  0.0  0.2   5048  4216 pts/1    Ss+  13:36   0:00 -bash
+root        4377  0.0  0.1   7636  3396 tty1     R+   13:46   0:00 ps -u
